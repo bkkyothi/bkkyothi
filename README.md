@@ -68,7 +68,7 @@
 
 #### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,wordpress,laravel,figma,Linux,apple,Command Line,AI" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,wordpress,laravel,figma,Linux,apple,bash,canva,openai, gemini&perline=10" />
 
 </p>
 
