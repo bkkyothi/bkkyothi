@@ -1,16 +1,110 @@
 ## Hi there 👋
 
-<!--
-**bkkyothi/bkkyothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile README for bkkyothi -->
+<!-- Tip: Replace placeholders like YOUR_USERNAME / links / handles -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm Kriengkrai Yothi 👋</h1>
+<p align="center">
+  Developer • Content Creator • Instructor • Beginner Designer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://bkkyothi.github.io" target="_blank">Portfolio</a> •
+  <a href="mailto:kriengkrai.born@gmail.com">Email</a> •
+  <a href="https://github.com/bkkyothi" target="_blank">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bkkyothi&style=flat-square&color=blue" alt="profile views" />
+</p>
+
+---
+
+### About me
+
+- 🌍 Based in **Ubonratchathani, Thailand**
+- 🧑‍🏫 Teaching web development and programming stuff
+- 🚀 Motto: Never stop learning
+- 🖥️ Portfolio: https://bkkyothi.github.io
+- ✉️ Contact: kriengkrai.born@gmail.com
+
+---
+
+### I'm learning
+
+- 🧠 (Add what you're learning here — e.g. Angular / Next.js / System Design / UI Design)
+- 📚 (Add course/topic)
+
+---
+
+### Tech stack
+
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py" />
+</p>
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,jquery,vite" />
+</p>
+
+#### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,wordpress,laravel,figma,gcp,apple" />
+</p>
+
+#### Design & Video
+<p>
+  <!-- skillicons doesn't include Adobe icons by default in many sets, so use simple badges -->
+  <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
+  <img alt="After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-00005B?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" />
+  <img alt="Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005B?style=flat-square&logo=adobepremierepro&logoColor=9999FF" />
+</p>
+
+---
+
+### Socials
+
+<p>
+  <a href="https://discord.com/users/ohmiler" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/milerdev" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/miler.cs" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.x.com/ohmiler" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@PatiphanPhengpao" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### Featured projects
+
+- ⭐ (Project 1) — short description + link
+- ⭐ (Project 2) — short description + link
+- ⭐ (Project 3) — short description + link
+
+---
+
+### Support me
+
+<p>
+  <a href="https://www.buymeacoffee.com/milerdev" target="_blank">
+    <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000" />
+  </a>
+</p>
+
