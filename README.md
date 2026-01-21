@@ -39,17 +39,6 @@
 
 ### Tech stack
 
-#### Frameworks & Services
-<p align="left">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
-  <img alt="PythonAnywhere" src="https://img.shields.io/badge/PythonAnywhere-1D4ED8?style=flat-square&logo=pythonanywhere&logoColor=white" />
-</p>
 
 #### Languages
 <p>
@@ -58,21 +47,46 @@
 
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,jquery,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,jquery,vite,vue" />
 </p>
 
 #### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,postgres,firebase" />
 </p>
 
 #### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,wordpress,laravel,figma,Linux,apple,bash,canva,openai, gemini&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,wordpress,figma,apple,bash,heroku,&theme=light" />
 
 </p>
 
-#### Design & Video
+#### Frameworks & Services
+<p align="left">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="PythonAnywhere" src="https://img.shields.io/badge/PythonAnywhere-1D4ED8?style=flat-square&logo=pythonanywhere&logoColor=white" />
+</p>
+
+#### AI & LLM Tools
+<p align="left">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Google Gemini" src="https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-111827?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Meta AI" src="https://img.shields.io/badge/Meta%20AI-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Sonar AI" src="https://img.shields.io/badge/Sonar%20AI-0EA5E9?style=flat-square" />
+  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-1D4ED8?style=flat-square&logo=deepseek&logoColor=white" />
+  <img alt="NotebookLM" src="https://img.shields.io/badge/NotebookLM-1A73E8?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img alt="Grammarly" src="https://img.shields.io/badge/Grammarly-15C39A?style=flat-square&logo=grammarly&logoColor=white" />
+  <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-111827?style=flat-square" />
+ 
+
+</p>
+
+#### Design
 <p>
   <!-- skillicons doesn't include Adobe icons by default in many sets, so use simple badges -->
   <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
