@@ -68,10 +68,8 @@
 
 #### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,wordpress,laravel,figma,gcp,apple" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
-  <img alt="Command Line" src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white" />
-  <img alt="AI" src="https://img.shields.io/badge/AI-111827?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,wordpress,laravel,figma,Linux,apple,Command Line,AI" />
+
 </p>
 
 #### Design & Video
