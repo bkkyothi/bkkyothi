@@ -64,8 +64,10 @@
   <!-- skillicons doesn't include Adobe icons by default in many sets, so use simple badges -->
   <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
   <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
-  <img alt="After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-00005B?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" />
-  <img alt="Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005B?style=flat-square&logo=adobepremierepro&logoColor=9999FF" />
+  <img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white" />
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+
+
 </p>
 
 ---
@@ -73,19 +75,19 @@
 ### Socials
 
 <p>
-  <a href="https://discord.com/users/ohmiler" target="_blank">
+  <a href="https://discord.com/users/" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/milerdev" target="_blank">
+  <a href="https://www.facebook.com/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/miler.cs" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.x.com/ohmiler" target="_blank">
+  <a href="https://www.x.com/" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@PatiphanPhengpao" target="_blank">
+  <a href="https://www.youtube.com/" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
 </p>
@@ -103,7 +105,7 @@
 ### Support me
 
 <p>
-  <a href="https://www.buymeacoffee.com/milerdev" target="_blank">
+  <a href="https://www.buymeacoffee.com/" target="_blank">
     <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000" />
   </a>
 </p>
