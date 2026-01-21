@@ -39,6 +39,18 @@
 
 ### Tech stack
 
+#### Frameworks & Services
+<p align="left">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img alt="PythonAnywhere" src="https://img.shields.io/badge/PythonAnywhere-1D4ED8?style=flat-square&logo=pythonanywhere&logoColor=white" />
+</p>
+
 #### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,php,py" />
@@ -57,6 +69,9 @@
 #### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,vscode,docker,wordpress,laravel,figma,gcp,apple" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
+  <img alt="Command Line" src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white" />
+  <img alt="AI" src="https://img.shields.io/badge/AI-111827?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 #### Design & Video
