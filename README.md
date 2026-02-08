@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there, I'm Kriengkrai Yothi 👋</h1>
 <p align="center">
-  Developer • Content Creator • Instructor • Beginner Designer
+  Developer • Content Creator • Beginner Designer
 </p>
 
 <p align="center">
@@ -89,10 +89,10 @@
 #### Design
 <p>
   <!-- skillicons doesn't include Adobe icons by default in many sets, so use simple badges -->
-  <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
-  <img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white" />
+    <img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white" />
   <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+    <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
 
 
 </p>
@@ -123,9 +123,20 @@
 
 ### Featured projects
 
-- ⭐ (Project 1) — short description + link
-- ⭐ (Project 2) — short description + link
-- ⭐ (Project 3) — short description + link
+- ⭐ [💼 Kriangkrai Yothi Portfolio](https://bkkyothi.github.io)  
+  - เว็บไซต์แสดงผลงานส่วนตัวที่ออกแบบมาด้วย Material Design 3 เน้นความทันสมัย ใช้งานง่าย และรองรับทุกอุปกรณ์
+  - เว็บไซต์นี้ถูกพัฒนาด้วย Vite + React + TypeScript 
+  - **source code:** [https://github.com/bkkyothi/bkkyothi.github.io](https://github.com/bkkyothi/bkkyothi.github.io)
+  
+- ⭐ [📊 Naiin.com Best Seller Analysis](https://bkkyothi.github.io/Project_Data_Science/)  
+  - วิเคราะห์ข้อมูลหนังสือขายดีจากเว็บไซต์ Naiin.com โดยใช้เทคนิค Data Scraping เพื่อดึงข้อมูลหนังสือขายดีจากเว็บไซต์, Machine Learning เพื่อวิเคราะห์แนวโน้มและความสัมพันธ์ของหนังสือ  และ Data Visualization เพื่อแสดงผลข้อมูลในรูปแบบกราฟและแผนภูมิ 
+  - ใช้เทคโนโลยี Python + Django + Pandas + Matplotlib + NumPy + Scikit-learn + Chart.js
+  - **source code:** [https://github.com/bkkyothi/Project_Data_Science](https://github.com/bkkyothi/Project_Data_Science)
+
+- ⭐ [📈 COVID-19 Dashboard](https://bkkyothi.github.io/covid-19-project-v2/)  
+  - A comprehensive, interactive COVID-19 Dashboard built with  It features real-time data visualization, interactive maps, and a persistent theme system using DaisyUI.
+  - ใช้เทคโนโลยี Nuxt 3, TypeScript, Leaflet, and ApexCharts.
+  - **source code:** [https://github.com/bkkyothi/covid-19-project-v2](https://github.com/bkkyothi/covid-19-project-v2/tree/master)
 
 ---
 
